@@ -2,17 +2,11 @@
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-<br>
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2387BE5D&title_bg=%235E5E5E&icon=laravel.svg&icon_color=%23FDFDFD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 <Strong>📧Email📧</Strong><br>robot70345@gmail.com<br>
 </p>
-
-
-
-
-
-
+<br>
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
