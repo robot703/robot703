@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MinJae's&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20GitHub%20is%20a%20storage%20space%20for%20all%20my%20code!&descAlignY=51&descAlign=62)
 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PgmJun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
