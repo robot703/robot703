@@ -24,5 +24,4 @@
 
 <div align=center>
 
-![robot703's github stats](https://github-readme-stats.vercel.app/api?username=robot703&show_icons=true)
-
+![robot703's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot703&show_icons=true&theme=radical)
