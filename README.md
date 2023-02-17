@@ -27,6 +27,6 @@
 ![robot703's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot703&show_icons=true&theme=radical)
 <br/>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudalsrkwhr4)](https://solved.ac/dudalsrkwhr4)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2019038045)](https://solved.ac/dudalsrkwhr4)
   
 <br/>
