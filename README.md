@@ -2,7 +2,7 @@
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frobot703&count_bg=%238DC85F&title_bg=%23707070&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="[https://pgmjun.tistory.com/](https://blueocean703.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>robot70345@gmail.com<br>
 </p>
